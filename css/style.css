@@ -113,12 +113,12 @@ h5{
     font-size: 18px;
 	line-height: 24px;
 	padding: 20px 19px;
-	border: 2px solid#000;
+	border: 2px solid#002037;
 	text-transform: uppercase;
 	border-radius: 0px;
 	font-weight: 700;
 	background: transparent;
-	color: #000;
+	color: #002037;
 	-webkit-transition: all .4s ease-in 0s;
 	-o-transition: all .4s ease-in 0s;
 	transition: all .4s ease-in 0s;
@@ -190,17 +190,13 @@ h2.heading-title{
 ================================================*/
 
 #section-banner{
-	background: url("../images/DSC00554.JPG") ;
+	background: url("../images/hi.jpg") ;
 	background-size: cover;
 }
 .banner-content{
 	padding: 250px 0px 300px 0px;
 }
 
-#buttons
-{
-	color: #002037;
-}
 h2.title{
 	font-size: 57px;
 	line-height: 72px;
@@ -318,7 +314,7 @@ h2.title span{
 =====================================================*/
 
 #section-overview{
-	padding: 75px 0px 80px;
+	
     text-align: center;
     margin: auto;
 }
@@ -380,7 +376,6 @@ h2.title span{
 }
 .service-box {
 	padding: 0px;
-	margin-left: 60px;
 	margin-top: -15px;
 }
 .service-box h3{
