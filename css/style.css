@@ -197,7 +197,10 @@ h2.heading-title{
 	padding: 250px 0px 300px 0px;
 }
 
-
+#buttons
+{
+	color: #002037;
+}
 h2.title{
 	font-size: 57px;
 	line-height: 72px;
